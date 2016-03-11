@@ -1,2 +1,2 @@
 alert('te - hotfix - st');
-alert('test-hotfix');
+alert('te-adfsf-st-hotfix');

@@ -6,3 +6,5 @@ alert('test-ho - master - hotfix merge end - tfix');
 
 // local git edit2
 // github edit2
+
+// master -1 

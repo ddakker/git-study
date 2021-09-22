@@ -8,3 +8,4 @@ alert('test-ho - master - hotfix merge end - tfix');
 // github edit2
 
 // master -1
+// master -2
